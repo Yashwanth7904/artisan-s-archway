@@ -1,0 +1,1 @@
+import{j as n}from"./index-CtpHT1r5.js";const o=()=>n.jsx("div",{className:"flex min-h-screen items-center justify-center text-foreground",children:"Artisan not found"});export{o as notFoundComponent};
